@@ -2,24 +2,18 @@
 
 
 What? 
-
 Timeseries, regression project.
 
 
-
 Goal: 
-
 Predicting the sales (=target) for drug stores.
 
 
-
 Additional Info: 
-
 - the data is from a "Rossmann"-store Kaggle competition
 - data contains multiple stores (cat = 0-1114)
 - data contains multiple to the target related features (which were used as input for the prediction)  
 - this project applies the AWS Sagemakers DeepAr Algorithm
-
 
 
 Framework:
