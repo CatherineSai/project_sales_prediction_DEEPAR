@@ -34,6 +34,7 @@ Steps 2 - 4 are mainly done in the notebook "Data_Preprocesing_Step_2-4"
 6.	Evaluation
 7.	Deploy & Document
 
-Steps 5-7 are done in the notebook “Benchmark_Model_Step_5-7” for the benchmark model (Simple Exponential Smoothing) and in the notebook “DeepAR_Model_Step_5-7” for the Amazon Sagemaker DeepAR model.
+Steps 5-6 are done in the notebook “Benchmark_Model_Step_5-6” for the benchmark model (Simple Exponential Smoothing). The Steps 5-7 are also done in the notebook “DeepAR_Model_Step_5-7” for the Amazon Sagemaker DeepAR model.
 
-Step 7 is mainly done in the “Report” document, although the notebooks include brief comments and evaluations for the steps as well. 
+The Documentation of Step 7 is mainly done in the “Report” document, although the notebooks include brief comments and evaluations for the steps as well. 
+
